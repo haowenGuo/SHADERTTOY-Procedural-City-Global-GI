@@ -30,6 +30,8 @@ ShaderToy 链接：https://www.shadertoy.com/view/sXBGRw
   中文技术说明。
 - `docs/TECHNICAL_OVERVIEW.ja.md`  
   日文技术说明。
+- `docs/BLOG_CHAMPION_TECHNICAL_RETROSPECTIVE.zh-CN.md`  
+  可直接发布的中文冠军作品技术复盘。
 - `submission/`  
   比赛提交 notes 和邮件草稿。
 

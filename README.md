@@ -30,6 +30,8 @@ The renderer combines a small stochastic path tracer with a deterministic city i
   Chinese technical overview.
 - `docs/TECHNICAL_OVERVIEW.ja.md`  
   Japanese technical overview.
+- `docs/BLOG_CHAMPION_TECHNICAL_RETROSPECTIVE.zh-CN.md`  
+  Detailed Chinese champion-project technical retrospective and publishable blog article.
 - `submission/`  
   Competition notes and email draft.
 
