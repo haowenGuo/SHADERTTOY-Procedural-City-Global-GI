@@ -20,6 +20,10 @@ ShaderToy 链接：https://www.shadertoy.com/view/sXBGRw
   主 ShaderToy Buffer A，包含程序化城市、路径追踪、GI 场、相机状态和时间累积。
 - `FutureCity_Image.glsl`  
   显示 pass，用于隐藏 Buffer A 前四个状态像素并输出最终图像。
+- `FutureCity_BufferA_Annotated.zh-CN.glsl`  
+  Buffer A 中文教学注释版；剥离注释后的可执行 GLSL 与比赛原版一致。
+- `FutureCity_Image_Annotated.zh-CN.glsl`  
+  最终显示 pass 的中文教学注释版。
 - `render_future_city_offline.js`  
   可选的本地 WebGL2 渲染脚本，用于生成预览帧或视频。
 - `assets/preview.png`  
