@@ -1,5 +1,7 @@
 node_modules/
 package-lock.json
+FutureCity_BufferA_Annotated.zh-CN.glsl
+FutureCity_Image_Annotated.zh-CN.glsl
 FutureCity_frames/
 FutureCity_*frames*/
 FutureCity_preview.webm

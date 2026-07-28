@@ -20,10 +20,6 @@ The renderer combines a small stochastic path tracer with a deterministic city i
   Main ShaderToy Buffer A pass. It contains the procedural city, path tracer, GI field, camera state, and temporal accumulation.
 - `FutureCity_Image.glsl`  
   Display pass. It hides the first four Buffer A state pixels and presents the accumulated image.
-- `FutureCity_BufferA_Annotated.zh-CN.glsl`  
-  Chinese teaching edition with detailed comments; executable GLSL is identical to the submission Buffer A.
-- `FutureCity_Image_Annotated.zh-CN.glsl`  
-  Chinese teaching edition of the final display pass.
 - `render_future_city_offline.js`  
   Optional local WebGL2 renderer for preview frames or video capture.
 - `assets/preview.png`  
